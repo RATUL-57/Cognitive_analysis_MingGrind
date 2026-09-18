@@ -1,0 +1,48 @@
+SPEARMAN CORRELATION ANALYSIS
+======================================================================
+
+Purpose
+-------
+This analysis examines exploratory associations between demographic/gameplay variables, overall performance, and cognitive-domain performance.
+
+Variables
+---------
+- age
+- weekly_gaming_hours
+- sleep_hours_last_night
+- games_played
+- total_plays
+- overall_performance
+- overall_best_performance
+- Memory
+- Attention
+- Reflex
+- Perception
+- Learning
+- Reasoning
+
+Important methodological notes
+-------------------------------
+- Spearman correlation is used because the sample is relatively small and relationships may not be normally distributed.
+- Pairwise complete observations are used for each correlation.
+- Correlations involving constant variables are reported as NaN because they are mathematically undefined.
+- Correlation does not establish causation.
+- Cognitive-domain assignments are based on the game design and should not be interpreted as clinically validated cognitive measurements.
+
+Strongest non-self correlations
+--------------------------------
+Memory <-> Reflex: rho=1.0000, p=0.0000, n=4
+overall_performance <-> overall_best_performance: rho=1.0000, p=0.0000, n=5
+games_played <-> total_plays: rho=0.9747, p=0.0048, n=5
+games_played <-> Attention: rho=0.9487, p=0.0513, n=4
+weekly_gaming_hours <-> overall_best_performance: rho=-0.8944, p=0.0405, n=5
+weekly_gaming_hours <-> overall_performance: rho=-0.8944, p=0.0405, n=5
+weekly_gaming_hours <-> Learning: rho=-0.8660, p=0.3333, n=3
+weekly_gaming_hours <-> games_played: rho=-0.8030, p=0.1018, n=5
+sleep_hours_last_night <-> Memory: rho=0.8000, p=0.2000, n=4
+sleep_hours_last_night <-> Reflex: rho=0.8000, p=0.2000, n=4
+overall_performance <-> Memory: rho=0.8000, p=0.2000, n=4
+total_plays <-> Attention: rho=0.8000, p=0.2000, n=4
+overall_performance <-> Reflex: rho=0.8000, p=0.2000, n=4
+overall_best_performance <-> Memory: rho=0.8000, p=0.2000, n=4
+Memory <-> Attention: rho=0.8000, p=0.2000, n=4

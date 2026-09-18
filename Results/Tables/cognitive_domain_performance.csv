@@ -1,0 +1,7 @@
+cognitive_domain,games,participants,total_plays,mean_average_score,median_average_score,std_average_score,mean_best_score,median_best_score,mean_average_percent,median_average_percent,mean_best_percent,median_best_percent
+Attention,4,4,16,0.5532,0.625,0.294,0.6382,0.65,55.322,62.5,63.822,65.0
+Learning,2,3,4,0.2801,0.2857,0.1345,0.2801,0.2857,28.0133,28.57,28.0133,28.57
+Memory,2,4,7,0.5828,0.675,0.2575,0.6144,0.675,58.278,67.5,61.444,67.5
+Perception,1,1,1,0.7091,0.7091,,0.7091,0.7091,70.91,70.91,70.91,70.91
+Reasoning,3,2,7,0.3269,0.3288,0.2542,0.4315,0.463,32.6875,32.875,43.1525,46.305
+Reflex,6,4,18,0.466,0.45,0.3045,0.5382,0.5834,46.6008,45.0,53.8233,58.335

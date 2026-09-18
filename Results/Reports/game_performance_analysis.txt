@@ -1,0 +1,19 @@
+GAME PERFORMANCE ANALYSIS REPORT
+============================================================
+
+Scores are normalized according to each game's maximum possible score.
+
+Game-level results:
+------------------------------------------------------------
+ 0 | Cipher Rush               | Participants:   3 | Mean Average: 22.00% | Mean Best: 42.00%
+ 1 | Match-a-Mole              | Participants:   4 | Mean Average: 57.08% | Mean Best: 60.00%
+ 2 | Good Guy, Bad Guy         | Participants:   3 | Mean Average: 44.17% | Mean Best: 45.00%
+ 3 | Feed The Fishes           | Participants:   2 | Mean Average: 79.44% | Mean Best: 86.11%
+ 4 | Train of Thoughts         | Participants:   2 | Mean Average: 32.50% | Mean Best: 40.00%
+ 6 | Wordify                   | Participants:   2 | Mean Average: 21.43% | Mean Best: 21.43%
+ 7 | Find Me If You Can        | Participants:   1 | Mean Average: 70.91% | Mean Best: 70.91%
+12 | Faster, Please            | Participants:   1 | Mean Average: 78.50% | Mean Best: 78.50%
+13 | Wordle                    | Participants:   1 | Mean Average: 41.18% | Mean Best: 41.18%
+18 | Stop The Clock            | Participants:   1 | Mean Average: 21.38% | Mean Best: 21.38%
+19 | Odd One Out               | Participants:   1 | Mean Average: 24.57% | Mean Best: 51.43%
+30 | Level 1                   | Participants:   1 | Mean Average: 100.00% | Mean Best: 100.00%

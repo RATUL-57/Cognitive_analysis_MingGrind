@@ -1,0 +1,23 @@
+PLAYER PERFORMANCE ANALYSIS REPORT
+============================================================
+
+Player performance is calculated using the normalized average score across games actually played by each player.
+Unplayed games are not treated as zero.
+
+Overall statistics:
+------------------------------------------------------------
+Number of players: 5.0
+Mean games played: 4.4
+Median games played: 3.0
+Mean total plays: 6.6
+Mean normalized average performance: 0.4078
+Median normalized average performance: 0.4451
+Mean normalized best performance: 0.4552
+
+Player-level results:
+------------------------------------------------------------
+11e71038-d788-41ef-94c1-8a710d21ddaf | Games: 3 | Plays: 4 | Mean Performance: 55.43%
+36f8a2f6-7625-4ceb-aca1-6949807b6339 | Games: 8 | Plays: 14 | Mean Performance: 53.79%
+61db4526-1302-49fc-84ce-0954cf692242 | Games: 7 | Plays: 9 | Mean Performance: 44.51%
+6c5ae84a-2357-43f8-9c88-c4c67c37865b | Games: 3 | Plays: 5 | Mean Performance: 35.89%
+a79dbedd-6dee-4fda-91fd-62e9a056bd0a | Games: 1 | Plays: 1 | Mean Performance: 14.29%

@@ -1,0 +1,27 @@
+DEMOGRAPHIC AND BEHAVIORAL ANALYSIS REPORT
+============================================================
+
+Performance is calculated as the mean normalized average score across games played by each participant.
+
+Numerical associations use Spearman correlation. Categorical variables are summarized descriptively.
+
+Spearman correlations:
+------------------------------------------------------------
+age                       | n=  5 | rho=nan | p=nan
+weekly_gaming_hours       | n=  5 | rho=-0.8944 | p=0.0405
+sleep_hours_last_night    | n=  5 | rho=0.6000 | p=0.2848
+games_played              | n=  5 | rho=0.5643 | p=0.3217
+total_plays               | n=  5 | rho=0.4000 | p=0.5046
+
+Performance by gender:
+------------------------------------------------------------
+Male | n=5 | Mean=40.78%
+
+Performance by country:
+------------------------------------------------------------
+Bangladesh | n=5 | Mean=40.78%
+
+Performance by favorite genre:
+------------------------------------------------------------
+Action | n=4 | Mean=39.85%
+RPG | n=1 | Mean=44.51%

@@ -1,0 +1,19 @@
+cognitive_domain,game_id,game_title,participants,mean_average_score,mean_best_score,total_plays,mean_average_percent,mean_best_percent
+Attention,0,Cipher Rush,3,0.22,0.42,6,22.0,42.0
+Attention,1,Match-a-Mole,4,0.5708,0.6,5,57.0825,60.0
+Attention,3,Feed The Fishes,2,0.7945,0.8611,3,79.445,86.11
+Attention,30,Level 1,1,1.0,1.0,2,100.0,100.0
+Learning,6,Wordify,2,0.2143,0.2143,3,21.43,21.43
+Learning,13,Wordle,1,0.4118,0.4118,1,41.18,41.18
+Memory,2,"Good Guy, Bad Guy",3,0.4417,0.45,4,44.1667,45.0
+Memory,3,Feed The Fishes,2,0.7945,0.8611,3,79.445,86.11
+Perception,7,Find Me If You Can,1,0.7091,0.7091,1,70.91,70.91
+Reasoning,4,Train of Thoughts,2,0.325,0.4,3,32.5,40.0
+Reasoning,13,Wordle,1,0.4118,0.4118,1,41.18,41.18
+Reasoning,19,Odd One Out,1,0.2457,0.5143,3,24.57,51.43
+Reflex,0,Cipher Rush,3,0.22,0.42,6,22.0,42.0
+Reflex,1,Match-a-Mole,4,0.5708,0.6,5,57.0825,60.0
+Reflex,4,Train of Thoughts,2,0.325,0.4,3,32.5,40.0
+Reflex,12,"Faster, Please",1,0.785,0.785,1,78.5,78.5
+Reflex,18,Stop The Clock,1,0.2138,0.2138,1,21.38,21.38
+Reflex,30,Level 1,1,1.0,1.0,2,100.0,100.0

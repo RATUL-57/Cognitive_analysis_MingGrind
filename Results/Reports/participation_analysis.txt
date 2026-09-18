@@ -1,0 +1,24 @@
+PARTICIPATION ANALYSIS REPORT
+============================================================
+
+Total players: 6
+Total games: 25
+Games with participation: 12
+Total recorded plays: 33
+
+Average games played per player: 4.40
+
+Game participation:
+------------------------------------------------------------
+ 0 | Cipher Rush               | 3 players | 50.00% | 6 plays
+ 1 | Match-a-Mole              | 4 players | 66.67% | 5 plays
+ 2 | Good Guy, Bad Guy         | 3 players | 50.00% | 4 plays
+ 3 | Feed The Fishes           | 2 players | 33.33% | 3 plays
+ 4 | Train of Thoughts         | 2 players | 33.33% | 3 plays
+ 6 | Wordify                   | 2 players | 33.33% | 3 plays
+ 7 | Find Me If You Can        | 1 players | 16.67% | 1 plays
+12 | Faster, Please            | 1 players | 16.67% | 1 plays
+13 | Wordle                    | 1 players | 16.67% | 1 plays
+18 | Stop The Clock            | 1 players | 16.67% | 1 plays
+19 | Odd One Out               | 1 players | 16.67% | 3 plays
+30 | Level 1                   | 1 players | 16.67% | 2 plays

@@ -1,0 +1,6 @@
+player_id,age,gender,country,favorite_genre,weekly_gaming_hours,sleep_hours_last_night,games_played,total_plays,mean_average_score,median_average_score,std_average_score,mean_best_score,median_best_score,mean_best_average_gap,mean_average_percent,median_average_percent,mean_best_percent,mean_best_average_gap_percent
+11e71038-d788-41ef-94c1-8a710d21ddaf,24,Male,Bangladesh,Action,0,6,3,4,0.5543,0.675,0.231,0.625,0.675,0.0707,55.4333,67.5,62.5,7.0667
+36f8a2f6-7625-4ceb-aca1-6949807b6339,24,Male,Bangladesh,Action,0,7,8,14,0.5379,0.6542,0.2451,0.6215,0.742,0.0836,53.79,65.415,62.1475,8.3575
+61db4526-1302-49fc-84ce-0954cf692242,24,Male,Bangladesh,RPG,0,1,7,9,0.4451,0.3333,0.348,0.4862,0.4118,0.0411,44.5057,33.33,48.62,4.1143
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,24,Male,Bangladesh,Action,1,5,3,5,0.3589,0.45,0.2654,0.4006,0.475,0.0417,35.89,45.0,40.0567,4.1667
+a79dbedd-6dee-4fda-91fd-62e9a056bd0a,24,Male,Bangladesh,Action,16,4,1,1,0.1429,0.1429,,0.1429,0.1429,0.0,14.29,14.29,14.29,0.0

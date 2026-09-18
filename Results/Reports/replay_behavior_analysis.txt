@@ -1,0 +1,12 @@
+REPLAY BEHAVIOR ANALYSIS REPORT
+============================================================
+
+This analysis examines associations between play count and normalized performance.
+
+Important limitation: the current dataset contains aggregate bestScore, averageScore and playCount only. Therefore, this analysis cannot establish whether performance improved from one attempt to the next.
+
+Replay category results:
+------------------------------------------------------------
+2 plays         | Records:   9 | Mean plays: 2.00 | Mean performance: 49.55%
+3 plays         | Records:   1 | Mean plays: 3.00 | Mean performance: 24.57%
+Single play     | Records:  12 | Mean plays: 1.00 | Mean performance: 46.63%
