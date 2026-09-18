@@ -1,0 +1,29 @@
+{
+  "userId": "11e71038-d788-41ef-94c1-8a710d21ddaf",
+  "age": 24,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Action",
+  "weeklyGamingHours": 0,
+  "sleepHoursLastNight": 6,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 125,
+      "averageScore": 72,
+      "playCount": 2
+    },
+    {
+      "gameId": 1,
+      "bestScore": 210,
+      "averageScore": 210,
+      "playCount": 1
+    },
+    {
+      "gameId": 2,
+      "bestScore": 135,
+      "averageScore": 135,
+      "playCount": 1
+    }
+  ]
+}

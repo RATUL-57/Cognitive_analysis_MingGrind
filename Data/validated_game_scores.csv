@@ -1,0 +1,23 @@
+player_id,game_id,game_title,game_type,cognitive_skills,max_score,raw_best_score,raw_average_score,play_count
+11e71038-d788-41ef-94c1-8a710d21ddaf,0,Cipher Rush,minigame,Attention;Reflex,250,125,72,2
+11e71038-d788-41ef-94c1-8a710d21ddaf,1,Match-a-Mole,minigame,Reflex;Attention,300,210,210,1
+11e71038-d788-41ef-94c1-8a710d21ddaf,2,"Good Guy, Bad Guy",minigame,Memory,200,135,135,1
+36f8a2f6-7625-4ceb-aca1-6949807b6339,1,Match-a-Mole,minigame,Reflex;Attention,300,240,205,2
+36f8a2f6-7625-4ceb-aca1-6949807b6339,3,Feed The Fishes,minigame,Memory;Attention,90,80,68,2
+36f8a2f6-7625-4ceb-aca1-6949807b6339,4,Train of Thoughts,minigame,Reflex;Reasoning,200,155,125,2
+36f8a2f6-7625-4ceb-aca1-6949807b6339,6,Wordify,minigame,Learning,70,20,20,2
+36f8a2f6-7625-4ceb-aca1-6949807b6339,7,Find Me If You Can,minigame,Perception,275,195,195,1
+36f8a2f6-7625-4ceb-aca1-6949807b6339,12,"Faster, Please",minigame,Reflex,200,157,157,1
+36f8a2f6-7625-4ceb-aca1-6949807b6339,18,Stop The Clock,minigame,Reflex,800,171,171,1
+36f8a2f6-7625-4ceb-aca1-6949807b6339,19,Odd One Out,minigame,Reasoning,175,90,43,3
+61db4526-1302-49fc-84ce-0954cf692242,0,Cipher Rush,minigame,Attention;Reflex,250,150,78,2
+61db4526-1302-49fc-84ce-0954cf692242,1,Match-a-Mole,minigame,Reflex;Attention,300,100,100,1
+61db4526-1302-49fc-84ce-0954cf692242,2,"Good Guy, Bad Guy",minigame,Memory,200,40,40,1
+61db4526-1302-49fc-84ce-0954cf692242,3,Feed The Fishes,minigame,Memory;Attention,90,75,75,1
+61db4526-1302-49fc-84ce-0954cf692242,4,Train of Thoughts,minigame,Reflex;Reasoning,200,5,5,1
+61db4526-1302-49fc-84ce-0954cf692242,13,Wordle,minigame,Learning;Reasoning,170,70,70,1
+61db4526-1302-49fc-84ce-0954cf692242,30,Level 1,level,Reflex;Attention,95,95,95,2
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,0,Cipher Rush,minigame,Attention;Reflex,250,40,15,2
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,1,Match-a-Mole,minigame,Reflex;Attention,300,170,170,1
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,2,"Good Guy, Bad Guy",minigame,Memory,200,95,90,2
+a79dbedd-6dee-4fda-91fd-62e9a056bd0a,6,Wordify,minigame,Learning,70,10,10,1

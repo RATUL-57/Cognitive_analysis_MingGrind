@@ -1,0 +1,26 @@
+﻿game_id,game_title,game_type,cognitive_skills,max_score
+0,Cipher Rush,minigame,Attention;Reflex,250
+1,Match-a-Mole,minigame,Reflex;Attention,300
+2,"Good Guy, Bad Guy",minigame,Memory,200
+3,Feed The Fishes,minigame,Memory;Attention,90
+4,Train of Thoughts,minigame,Reflex;Reasoning,200
+5,Match The Notes,minigame,Memory;Perception,200
+6,Wordify,minigame,Learning,70
+7,Find Me If You Can,minigame,Perception,275
+8,Word Reveal,minigame,Attention;Memory,170
+9,Precision Product,minigame,Reflex;Learning,225
+10,Sequence Grid,minigame,Memory,100
+11,Perception Match,minigame,Perception;Memory,250
+12,"Faster, Please",minigame,Reflex,200
+13,Wordle,minigame,Learning;Reasoning,170
+14,Word Bubble,minigame,Learning,200
+15,Sequence Match,minigame,Memory,80
+16,Verbal Memory,minigame,Memory,250
+17,Number Memory,minigame,Memory,125
+18,Stop The Clock,minigame,Reflex,800
+19,Odd One Out,minigame,Reasoning,175
+30,Level 1,level,Reflex;Attention,95
+31,Level 2,level,Memory;Attention,100
+32,Level 3,level,Memory;Perception,85
+33,Level 4,level,Reasoning;Reflex,120
+34,Level 5,level,Reasoning,190

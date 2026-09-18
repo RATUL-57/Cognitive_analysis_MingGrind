@@ -1,0 +1,23 @@
+player_id,game_id,game_title,game_type,cognitive_skills,max_score,raw_best_score,raw_average_score,play_count,normalized_best_score,normalized_average_score,best_score_percent,average_score_percent
+11e71038-d788-41ef-94c1-8a710d21ddaf,0,Cipher Rush,minigame,Attention;Reflex,250,125,72,2,0.5,0.288,50.0,28.8
+11e71038-d788-41ef-94c1-8a710d21ddaf,1,Match-a-Mole,minigame,Reflex;Attention,300,210,210,1,0.7,0.7,70.0,70.0
+11e71038-d788-41ef-94c1-8a710d21ddaf,2,"Good Guy, Bad Guy",minigame,Memory,200,135,135,1,0.675,0.675,67.5,67.5
+36f8a2f6-7625-4ceb-aca1-6949807b6339,1,Match-a-Mole,minigame,Reflex;Attention,300,240,205,2,0.8,0.6833,80.0,68.33
+36f8a2f6-7625-4ceb-aca1-6949807b6339,3,Feed The Fishes,minigame,Memory;Attention,90,80,68,2,0.8889,0.7556,88.89,75.56
+36f8a2f6-7625-4ceb-aca1-6949807b6339,4,Train of Thoughts,minigame,Reflex;Reasoning,200,155,125,2,0.775,0.625,77.5,62.5
+36f8a2f6-7625-4ceb-aca1-6949807b6339,6,Wordify,minigame,Learning,70,20,20,2,0.2857,0.2857,28.57,28.57
+36f8a2f6-7625-4ceb-aca1-6949807b6339,7,Find Me If You Can,minigame,Perception,275,195,195,1,0.7091,0.7091,70.91,70.91
+36f8a2f6-7625-4ceb-aca1-6949807b6339,12,"Faster, Please",minigame,Reflex,200,157,157,1,0.785,0.785,78.5,78.5
+36f8a2f6-7625-4ceb-aca1-6949807b6339,18,Stop The Clock,minigame,Reflex,800,171,171,1,0.2138,0.2138,21.38,21.38
+36f8a2f6-7625-4ceb-aca1-6949807b6339,19,Odd One Out,minigame,Reasoning,175,90,43,3,0.5143,0.2457,51.43,24.57
+61db4526-1302-49fc-84ce-0954cf692242,0,Cipher Rush,minigame,Attention;Reflex,250,150,78,2,0.6,0.312,60.0,31.2
+61db4526-1302-49fc-84ce-0954cf692242,1,Match-a-Mole,minigame,Reflex;Attention,300,100,100,1,0.3333,0.3333,33.33,33.33
+61db4526-1302-49fc-84ce-0954cf692242,2,"Good Guy, Bad Guy",minigame,Memory,200,40,40,1,0.2,0.2,20.0,20.0
+61db4526-1302-49fc-84ce-0954cf692242,3,Feed The Fishes,minigame,Memory;Attention,90,75,75,1,0.8333,0.8333,83.33,83.33
+61db4526-1302-49fc-84ce-0954cf692242,4,Train of Thoughts,minigame,Reflex;Reasoning,200,5,5,1,0.025,0.025,2.5,2.5
+61db4526-1302-49fc-84ce-0954cf692242,13,Wordle,minigame,Learning;Reasoning,170,70,70,1,0.4118,0.4118,41.18,41.18
+61db4526-1302-49fc-84ce-0954cf692242,30,Level 1,level,Reflex;Attention,95,95,95,2,1.0,1.0,100.0,100.0
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,0,Cipher Rush,minigame,Attention;Reflex,250,40,15,2,0.16,0.06,16.0,6.0
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,1,Match-a-Mole,minigame,Reflex;Attention,300,170,170,1,0.5667,0.5667,56.67,56.67
+6c5ae84a-2357-43f8-9c88-c4c67c37865b,2,"Good Guy, Bad Guy",minigame,Memory,200,95,90,2,0.475,0.45,47.5,45.0
+a79dbedd-6dee-4fda-91fd-62e9a056bd0a,6,Wordify,minigame,Learning,70,10,10,1,0.1429,0.1429,14.29,14.29
