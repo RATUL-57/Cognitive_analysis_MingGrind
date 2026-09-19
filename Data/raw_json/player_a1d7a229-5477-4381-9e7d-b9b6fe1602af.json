@@ -1,0 +1,113 @@
+{
+  "userId": "a1d7a229-5477-4381-9e7d-b9b6fe1602af",
+  "age": 24,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Strategy",
+  "weeklyGamingHours": 25,
+  "sleepHoursLastNight": 7,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 125,
+      "averageScore": 110,
+      "playCount": 3
+    },
+    {
+      "gameId": 1,
+      "bestScore": 240,
+      "averageScore": 232,
+      "playCount": 3
+    },
+    {
+      "gameId": 2,
+      "bestScore": 200,
+      "averageScore": 195,
+      "playCount": 3
+    },
+    {
+      "gameId": 3,
+      "bestScore": 75,
+      "averageScore": 75,
+      "playCount": 2
+    },
+    {
+      "gameId": 4,
+      "bestScore": 185,
+      "averageScore": 178,
+      "playCount": 2
+    },
+    {
+      "gameId": 5,
+      "bestScore": 100,
+      "averageScore": 58,
+      "playCount": 2
+    },
+    {
+      "gameId": 6,
+      "bestScore": 30,
+      "averageScore": 30,
+      "playCount": 1
+    },
+    {
+      "gameId": 7,
+      "bestScore": 230,
+      "averageScore": 193,
+      "playCount": 3
+    },
+    {
+      "gameId": 8,
+      "bestScore": 145,
+      "averageScore": 122,
+      "playCount": 2
+    },
+    {
+      "gameId": 10,
+      "bestScore": 60,
+      "averageScore": 55,
+      "playCount": 2
+    },
+    {
+      "gameId": 11,
+      "bestScore": 265,
+      "averageScore": 210,
+      "playCount": 2
+    },
+    {
+      "gameId": 13,
+      "bestScore": 110,
+      "averageScore": 103,
+      "playCount": 3
+    },
+    {
+      "gameId": 14,
+      "bestScore": 163,
+      "averageScore": 155,
+      "playCount": 3
+    },
+    {
+      "gameId": 17,
+      "bestScore": 100,
+      "averageScore": 90,
+      "playCount": 2
+    },
+    {
+      "gameId": 18,
+      "bestScore": 679,
+      "averageScore": 660,
+      "playCount": 2
+    },
+    {
+      "gameId": 19,
+      "bestScore": 120,
+      "averageScore": 118,
+      "playCount": 2
+    },
+    {
+      "gameId": 30,
+      "bestScore": 93,
+      "averageScore": 141,
+      "playCount": 11
+    }
+  ]
+}

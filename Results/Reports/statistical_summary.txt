@@ -3,24 +3,24 @@ STATISTICAL SUMMARY
 
 DATASET OVERVIEW
 ----------------------------------------------------------------------
-Total players: 6
-Total games in dataset: 12
-Games with participation: 12
-Player-game records: 22
-Total plays: 33
-Mean games per player: 4.40
-Median games per player: 3.00
-Mean plays per player: 6.60
-Median plays per player: 5.00
+Total players: 47
+Total games in dataset: 25
+Games with participation: 25
+Player-game records: 628
+Total plays: 1383
+Mean games per player: 13.36
+Median games per player: 15.00
+Mean plays per player: 29.43
+Median plays per player: 25.00
 
 OVERALL PERFORMANCE
 ----------------------------------------------------------------------
-Mean normalized average performance: 0.4682
-Median normalized average performance: 0.4309
-SD normalized average performance: 0.2761
-Mean normalized best performance: 0.5270
-Median normalized best performance: 0.5405
-SD normalized best performance: 0.2756
+Mean normalized average performance: 0.5023
+Median normalized average performance: 0.5150
+SD normalized average performance: 0.2945
+Mean normalized best performance: 0.5701
+Median normalized best performance: 0.5710
+SD normalized best performance: 0.2722
 
 ANALYSIS AVAILABILITY
 ----------------------------------------------------------------------

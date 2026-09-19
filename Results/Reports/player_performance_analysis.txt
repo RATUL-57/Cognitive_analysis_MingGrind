@@ -6,18 +6,60 @@ Unplayed games are not treated as zero.
 
 Overall statistics:
 ------------------------------------------------------------
-Number of players: 5.0
-Mean games played: 4.4
-Median games played: 3.0
-Mean total plays: 6.6
-Mean normalized average performance: 0.4078
-Median normalized average performance: 0.4451
-Mean normalized best performance: 0.4552
+Number of players: 47.0
+Mean games played: 13.3617
+Median games played: 15.0
+Mean total plays: 29.4255
+Mean normalized average performance: 0.488
+Median normalized average performance: 0.4684
+Mean normalized best performance: 0.5497
 
 Player-level results:
 ------------------------------------------------------------
+0bf036d7-653e-4845-b973-cccc45b51984 | Games: 10 | Plays: 16 | Mean Performance: 22.76%
+116cc9df-3972-418f-8b08-06dbc9fdb86b | Games: 18 | Plays: 54 | Mean Performance: 17.50%
 11e71038-d788-41ef-94c1-8a710d21ddaf | Games: 3 | Plays: 4 | Mean Performance: 55.43%
+1d638396-0c39-4bb7-9ac6-68bc1a59d585 | Games: 25 | Plays: 92 | Mean Performance: 83.43%
+2f63d0f5-3731-4e44-87b3-2e5ba8b306d6 | Games: 3 | Plays: 3 | Mean Performance: 49.02%
+33d08ff5-31e3-44b9-9100-e1ae687fd601 | Games: 1 | Plays: 1 | Mean Performance: 62.86%
+354e20d4-599b-42fc-a2b0-122ca4feb2d9 | Games: 17 | Plays: 24 | Mean Performance: 55.64%
+361c7d6f-1410-4d11-815d-68fdcdadaa74 | Games: 19 | Plays: 25 | Mean Performance: 49.49%
+364223cd-b583-4eeb-87c7-478c7c0debf4 | Games: 11 | Plays: 28 | Mean Performance: 46.84%
 36f8a2f6-7625-4ceb-aca1-6949807b6339 | Games: 8 | Plays: 14 | Mean Performance: 53.79%
+42e366fd-7fbd-4312-ae4b-f4856249d7b5 (1) | Games: 15 | Plays: 22 | Mean Performance: 71.11%
+45eac662-3ea6-4f0a-a327-18910895411d | Games: 8 | Plays: 14 | Mean Performance: 29.72%
+517b9976-d2ab-40bb-b250-cfce5e299567 | Games: 11 | Plays: 39 | Mean Performance: 15.45%
+5414e0d6-f807-44bb-948c-00eb2056c359 | Games: 7 | Plays: 13 | Mean Performance: 17.02%
+54716eaf-ebd2-4b23-8374-4a9e022d81ad (1) | Games: 4 | Plays: 7 | Mean Performance: 76.67%
+578f0064-ba44-4300-ba13-5bfa94e295aa | Games: 15 | Plays: 22 | Mean Performance: 67.27%
+5b190361-fc48-47f8-b155-85daa06d2d0c | Games: 19 | Plays: 48 | Mean Performance: 62.65%
+5fb34995-9d6e-4292-913d-ebcafd0ca34a | Games: 18 | Plays: 32 | Mean Performance: 28.59%
 61db4526-1302-49fc-84ce-0954cf692242 | Games: 7 | Plays: 9 | Mean Performance: 44.51%
 6c5ae84a-2357-43f8-9c88-c4c67c37865b | Games: 3 | Plays: 5 | Mean Performance: 35.89%
+74eb4edc-7eb3-4a6a-af1f-33bd4fcaf373 | Games: 7 | Plays: 19 | Mean Performance: 27.83%
+7b116dad-c57d-4ce7-938d-85753438907b | Games: 22 | Plays: 78 | Mean Performance: 38.54%
+7e44185a-6c68-4f60-87b9-6319e7d28b67 | Games: 21 | Plays: 58 | Mean Performance: 70.29%
+83135a45-0ab1-4951-9342-c602aad72c63 | Games: 16 | Plays: 26 | Mean Performance: 29.79%
+8bd9d256-3ef1-4985-8c28-deb7a3a88f77 | Games: 23 | Plays: 49 | Mean Performance: 17.20%
+9208b64b-3197-42c2-ae8d-f6528747ccd5 | Games: 15 | Plays: 26 | Mean Performance: 67.22%
+92cd5243-d6ad-464c-9a4f-b3998fa12823 | Games: 13 | Plays: 20 | Mean Performance: 76.32%
+92ec5e80-9c5e-4c54-8741-2155600d414b | Games: 23 | Plays: 45 | Mean Performance: 41.17%
+9751f248-ddc4-463f-bc1b-bec70fac7665 | Games: 9 | Plays: 15 | Mean Performance: 40.32%
+a1d7a229-5477-4381-9e7d-b9b6fe1602af | Games: 17 | Plays: 48 | Mean Performance: 70.82%
+a5046361-afc3-490f-be67-9b54ec7a6b99 | Games: 9 | Plays: 14 | Mean Performance: 64.18%
 a79dbedd-6dee-4fda-91fd-62e9a056bd0a | Games: 1 | Plays: 1 | Mean Performance: 14.29%
+ae65995e-b222-4863-bc7e-d0913779581f | Games: 15 | Plays: 100 | Mean Performance: 29.95%
+b27adbcf-bf13-48df-a57b-2547bee94d56 | Games: 8 | Plays: 8 | Mean Performance: 73.58%
+c01d56ea-699a-4bae-be6e-a16bb4de85df | Games: 16 | Plays: 55 | Mean Performance: 23.77%
+d034b895-4aaa-46b2-b96f-03c231f6cbe3 | Games: 17 | Plays: 29 | Mean Performance: 41.93%
+d40e559d-a0ee-4067-83a7-bb136d129332 | Games: 11 | Plays: 25 | Mean Performance: 32.76%
+d8ce16a0-7f3b-484a-8da7-4f6b029e5030 (1) | Games: 4 | Plays: 4 | Mean Performance: 46.77%
+dc3fe96e-9d8e-4e5d-af4a-a2fe853bdeaa | Games: 18 | Plays: 30 | Mean Performance: 79.40%
+e56e9216-48a9-4020-8ed7-987898124413 | Games: 18 | Plays: 30 | Mean Performance: 37.57%
+ea6145ec-40c0-493d-b34b-4fb0ed7b74eb | Games: 15 | Plays: 24 | Mean Performance: 69.43%
+eb54cc3c-ba5c-4648-8bcd-3d6bf6e4c347 | Games: 14 | Plays: 23 | Mean Performance: 66.82%
+ec543544-abb4-4c98-843c-6f85a18609bb (1) | Games: 20 | Plays: 27 | Mean Performance: 72.57%
+f1776c59-1b1b-4c6b-a90c-083ea5f15543 | Games: 10 | Plays: 15 | Mean Performance: 35.96%
+f64c9b14-26b8-4bd2-a61e-e0bf471a60d1 | Games: 24 | Plays: 55 | Mean Performance: 31.88%
+fa776660-2173-478a-bb92-092cc91c4203 | Games: 16 | Plays: 35 | Mean Performance: 87.69%
+fb55f0e1-ed67-4390-b287-5a5879b13b7c | Games: 24 | Plays: 52 | Mean Performance: 59.80%

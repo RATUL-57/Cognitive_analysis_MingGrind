@@ -7,21 +7,25 @@ Numerical associations use Spearman correlation. Categorical variables are summa
 
 Spearman correlations:
 ------------------------------------------------------------
-age                       | n=  5 | rho=nan | p=nan
-weekly_gaming_hours       | n=  5 | rho=-0.8944 | p=0.0405
-sleep_hours_last_night    | n=  5 | rho=0.6000 | p=0.2848
-games_played              | n=  5 | rho=0.5643 | p=0.3217
-total_plays               | n=  5 | rho=0.4000 | p=0.5046
+age                       | n= 47 | rho=0.2505 | p=0.0895
+weekly_gaming_hours       | n= 47 | rho=0.0088 | p=0.9534
+sleep_hours_last_night    | n= 47 | rho=0.1798 | p=0.2265
+games_played              | n= 47 | rho=0.1390 | p=0.3514
+total_plays               | n= 47 | rho=-0.0246 | p=0.8697
 
 Performance by gender:
 ------------------------------------------------------------
-Male | n=5 | Mean=40.78%
+Male | n=47 | Mean=48.80%
 
 Performance by country:
 ------------------------------------------------------------
-Bangladesh | n=5 | Mean=40.78%
+Bangladesh | n=46 | Mean=49.21%
+Cameroon | n=1 | Mean=29.79%
 
 Performance by favorite genre:
 ------------------------------------------------------------
-Action | n=4 | Mean=39.85%
-RPG | n=1 | Mean=44.51%
+Action | n=19 | Mean=43.33%
+Puzzle | n=3 | Mean=52.67%
+RPG | n=3 | Mean=57.91%
+Stealth | n=16 | Mean=52.90%
+Strategy | n=6 | Mean=48.66%

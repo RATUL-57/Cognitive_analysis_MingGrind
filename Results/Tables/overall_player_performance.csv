@@ -1,8 +1,8 @@
 metric,value
-Number of players,5.0
-Mean games played,4.4
-Median games played,3.0
-Mean total plays,6.6
-Mean normalized average performance,0.4078
-Median normalized average performance,0.4451
-Mean normalized best performance,0.4552
+Number of players,47.0
+Mean games played,13.3617
+Median games played,15.0
+Mean total plays,29.4255
+Mean normalized average performance,0.488
+Median normalized average performance,0.4684
+Mean normalized best performance,0.5497

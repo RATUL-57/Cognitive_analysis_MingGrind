@@ -1,0 +1,29 @@
+{
+  "userId": "2f63d0f5-3731-4e44-87b3-2e5ba8b306d6",
+  "age": 26,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Stealth",
+  "weeklyGamingHours": 20,
+  "sleepHoursLastNight": 5,
+  "gameStats": [
+    {
+      "gameId": 6,
+      "bestScore": 0,
+      "averageScore": 0,
+      "playCount": 1
+    },
+    {
+      "gameId": 8,
+      "bestScore": 140,
+      "averageScore": 140,
+      "playCount": 1
+    },
+    {
+      "gameId": 13,
+      "bestScore": 110,
+      "averageScore": 110,
+      "playCount": 1
+    }
+  ]
+}

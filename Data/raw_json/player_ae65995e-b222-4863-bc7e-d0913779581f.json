@@ -1,0 +1,101 @@
+{
+  "userId": "ae65995e-b222-4863-bc7e-d0913779581f",
+  "age": 24,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Action",
+  "weeklyGamingHours": 35,
+  "sleepHoursLastNight": 4,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 120,
+      "averageScore": -21,
+      "playCount": 7
+    },
+    {
+      "gameId": 1,
+      "bestScore": 250,
+      "averageScore": 168,
+      "playCount": 4
+    },
+    {
+      "gameId": 2,
+      "bestScore": 65,
+      "averageScore": 18,
+      "playCount": 5
+    },
+    {
+      "gameId": 3,
+      "bestScore": 30,
+      "averageScore": 6,
+      "playCount": 5
+    },
+    {
+      "gameId": 4,
+      "bestScore": 125,
+      "averageScore": 39,
+      "playCount": 7
+    },
+    {
+      "gameId": 5,
+      "bestScore": 40,
+      "averageScore": 13,
+      "playCount": 3
+    },
+    {
+      "gameId": 6,
+      "bestScore": 40,
+      "averageScore": 16,
+      "playCount": 4
+    },
+    {
+      "gameId": 7,
+      "bestScore": 35,
+      "averageScore": 4,
+      "playCount": 9
+    },
+    {
+      "gameId": 8,
+      "bestScore": 126,
+      "averageScore": -6,
+      "playCount": 12
+    },
+    {
+      "gameId": 10,
+      "bestScore": 30,
+      "averageScore": 6,
+      "playCount": 13
+    },
+    {
+      "gameId": 13,
+      "bestScore": 90,
+      "averageScore": 46,
+      "playCount": 7
+    },
+    {
+      "gameId": 14,
+      "bestScore": 36,
+      "averageScore": 18,
+      "playCount": 2
+    },
+    {
+      "gameId": 30,
+      "bestScore": 0,
+      "averageScore": 81,
+      "playCount": 20
+    },
+    {
+      "gameId": 31,
+      "bestScore": 126,
+      "averageScore": 126,
+      "playCount": 1
+    },
+    {
+      "gameId": 32,
+      "bestScore": 101,
+      "averageScore": 101,
+      "playCount": 1
+    }
+  ]
+}

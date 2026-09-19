@@ -1,0 +1,101 @@
+{
+  "userId": "42e366fd-7fbd-4312-ae4b-f4856249d7b5",
+  "age": 25,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Stealth",
+  "weeklyGamingHours": 28,
+  "sleepHoursLastNight": 7,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 170,
+      "averageScore": 160,
+      "playCount": 2
+    },
+    {
+      "gameId": 1,
+      "bestScore": 230,
+      "averageScore": 230,
+      "playCount": 1
+    },
+    {
+      "gameId": 2,
+      "bestScore": 155,
+      "averageScore": 155,
+      "playCount": 1
+    },
+    {
+      "gameId": 3,
+      "bestScore": 90,
+      "averageScore": 90,
+      "playCount": 1
+    },
+    {
+      "gameId": 4,
+      "bestScore": 185,
+      "averageScore": 185,
+      "playCount": 1
+    },
+    {
+      "gameId": 5,
+      "bestScore": 45,
+      "averageScore": 45,
+      "playCount": 1
+    },
+    {
+      "gameId": 6,
+      "bestScore": 30,
+      "averageScore": 20,
+      "playCount": 2
+    },
+    {
+      "gameId": 7,
+      "bestScore": 235,
+      "averageScore": 235,
+      "playCount": 1
+    },
+    {
+      "gameId": 8,
+      "bestScore": 63,
+      "averageScore": 63,
+      "playCount": 1
+    },
+    {
+      "gameId": 10,
+      "bestScore": 70,
+      "averageScore": 70,
+      "playCount": 1
+    },
+    {
+      "gameId": 11,
+      "bestScore": 145,
+      "averageScore": 145,
+      "playCount": 1
+    },
+    {
+      "gameId": 12,
+      "bestScore": 172,
+      "averageScore": 172,
+      "playCount": 1
+    },
+    {
+      "gameId": 18,
+      "bestScore": 616,
+      "averageScore": 616,
+      "playCount": 1
+    },
+    {
+      "gameId": 19,
+      "bestScore": 160,
+      "averageScore": 160,
+      "playCount": 1
+    },
+    {
+      "gameId": 30,
+      "bestScore": 97,
+      "averageScore": 137,
+      "playCount": 6
+    }
+  ]
+}
