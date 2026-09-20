@@ -1,6 +1,6 @@
 {
   "userId": "517b9976-d2ab-40bb-b250-cfce5e299567",
-  "age": 25,
+  "age": 35,
   "gender": "Male",
   "country": "Bangladesh",
   "favoriteGenre": "Action",
@@ -63,8 +63,8 @@
     },
     {
       "gameId": 14,
-      "bestScore": 36,
-      "averageScore": 18,
+      "bestScore": 136,
+      "averageScore": 128,
       "playCount": 2
     },
     {

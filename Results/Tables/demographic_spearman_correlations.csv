@@ -1,6 +1,6 @@
 variable,n,spearman_rho,p_value
-age,47,0.2505,0.0895
-weekly_gaming_hours,47,0.0088,0.9534
-sleep_hours_last_night,47,0.1798,0.2265
-games_played,47,0.139,0.3514
-total_plays,47,-0.0246,0.8697
+age,53,0.0517,0.713
+weekly_gaming_hours,53,0.1181,0.3997
+sleep_hours_last_night,53,0.2596,0.0605
+games_played,53,-0.0862,0.5394
+total_plays,53,-0.1087,0.4384

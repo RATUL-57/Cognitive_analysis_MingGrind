@@ -9,51 +9,51 @@
   "gameStats": [
     {
       "gameId": 1,
-      "bestScore": 43,
-      "averageScore": -2,
+      "bestScore": 226,
+      "averageScore": 212,
       "playCount": 3
     },
     {
       "gameId": 6,
-      "bestScore": 25,
-      "averageScore": 25,
-      "playCount": 1
+      "bestScore": 60,
+      "averageScore": 55,
+      "playCount": 5
     },
     {
       "gameId": 7,
-      "bestScore": 32,
-      "averageScore": 14,
+      "bestScore": 227,
+      "averageScore": 184,
       "playCount": 2
     },
     {
       "gameId": 10,
-      "bestScore": 40,
-      "averageScore": 40,
+      "bestScore": 79,
+      "averageScore": 79,
       "playCount": 1
     },
     {
       "gameId": 13,
-      "bestScore": 72,
-      "averageScore": 72,
-      "playCount": 1
+      "bestScore": 151,
+      "averageScore": 141,
+      "playCount": 3
     },
     {
       "gameId": 14,
-      "bestScore": 52,
-      "averageScore": -19,
+      "bestScore": 178,
+      "averageScore": 162,
       "playCount": 4
     },
     {
       "gameId": 16,
-      "bestScore": 124,
-      "averageScore": 124,
+      "bestScore": 164,
+      "averageScore": 164,
       "playCount": 1
     },
     {
       "gameId": 33,
-      "bestScore": 78,
-      "averageScore": 78,
-      "playCount": 1
+      "bestScore": 103,
+      "averageScore": 93,
+      "playCount": 4
     }
   ]
 }

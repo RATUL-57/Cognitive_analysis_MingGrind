@@ -7,7 +7,7 @@ Important limitation: the current dataset contains aggregate bestScore, averageS
 
 Replay category results:
 ------------------------------------------------------------
-2 plays         | Records: 126 | Mean plays: 2.00 | Mean performance: 38.78%
-3 plays         | Records:  39 | Mean plays: 3.00 | Mean performance: 38.03%
-4+ plays        | Records:  94 | Mean plays: 6.86 | Mean performance: 39.65%
-Single play     | Records: 369 | Mean plays: 1.00 | Mean performance: 58.11%
+2 plays         | Records: 134 | Mean plays: 2.00 | Mean performance: 49.99%
+3 plays         | Records:  50 | Mean plays: 3.00 | Mean performance: 50.63%
+4+ plays        | Records: 110 | Mean plays: 6.66 | Mean performance: 52.34%
+Single play     | Records: 452 | Mean plays: 1.00 | Mean performance: 44.51%

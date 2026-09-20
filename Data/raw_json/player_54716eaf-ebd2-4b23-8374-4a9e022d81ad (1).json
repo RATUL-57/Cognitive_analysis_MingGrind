@@ -9,8 +9,8 @@
   "gameStats": [
     {
       "gameId": 0,
-      "bestScore": 100,
-      "averageScore": 100,
+      "bestScore": 200,
+      "averageScore": 200,
       "playCount": 1
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "gameId": 30,
-      "bestScore": 109,
-      "averageScore": 109,
+      "bestScore": 90,
+      "averageScore": 90,
       "playCount": 1
     }
   ]

@@ -1,16 +1,16 @@
 metric,value
-Total players,47.0
+Total players,53.0
 Total games in dataset,25.0
 Games with participation,25.0
-Player-game records,628.0
-Total plays,1383.0
-Mean games per player,13.361702127659575
-Median games per player,15.0
-Mean plays per player,29.425531914893618
-Median plays per player,25.0
-Mean normalized average performance,0.5022531847133759
-Median normalized average performance,0.515
-SD normalized average performance,0.294532234241662
-Mean normalized best performance,0.5700549363057326
-Median normalized best performance,0.571
-SD normalized best performance,0.27224175798760364
+Player-game records,746.0
+Total plays,1603.0
+Mean games per player,14.075471698113208
+Median games per player,14.0
+Mean plays per player,30.245283018867923
+Median plays per player,27.0
+Mean normalized average performance,0.531171581769437
+Median normalized average performance,0.52715
+SD normalized average performance,0.1472551228016199
+Mean normalized best performance,0.57271581769437
+Median normalized best performance,0.56735
+SD normalized best performance,0.14986520356439514

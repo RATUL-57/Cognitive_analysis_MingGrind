@@ -1,0 +1,19 @@
+domain,variable,variable_column,performance_measure,spearman_rho,p_value,n
+Attention,Sleep,sleep_hours_last_night,domain_average_performance,0.19804948741241088,0.163578661145547,51
+Attention,Age,age,domain_average_performance,-0.016981882324043972,0.9058483317014913,51
+Attention,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.07681884372119055,0.5921045808617427,51
+Memory,Sleep,sleep_hours_last_night,domain_average_performance,0.19606265283230587,0.16361333136808828,52
+Memory,Age,age,domain_average_performance,-0.010262976484188951,0.9424346390472734,52
+Memory,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.06785750587743586,0.6326616275559559,52
+Reasoning,Sleep,sleep_hours_last_night,domain_average_performance,0.2734553759320248,0.05727774440854895,49
+Reasoning,Age,age,domain_average_performance,0.1419434422672357,0.3306071924412683,49
+Reasoning,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.110696534076592,0.44892783958764415,49
+Reflex,Sleep,sleep_hours_last_night,domain_average_performance,0.25207957798759395,0.07433916537479984,51
+Reflex,Age,age,domain_average_performance,0.029959373861596767,0.8346860623837025,51
+Reflex,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.06339382714635289,0.6585297655436652,51
+Perception,Sleep,sleep_hours_last_night,domain_average_performance,0.31703505321857356,0.04341764688435314,41
+Perception,Age,age,domain_average_performance,-0.010313391430623374,0.9489723658129848,41
+Perception,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.12245623664246164,0.4456237200663794,41
+Learning,Sleep,sleep_hours_last_night,domain_average_performance,0.13358260876425826,0.3761331718066389,46
+Learning,Age,age,domain_average_performance,0.2754887041440465,0.06387199513026258,46
+Learning,Gaming Hours,weekly_gaming_hours,domain_average_performance,0.18891431020148974,0.2086175762596492,46

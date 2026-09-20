@@ -1,0 +1,41 @@
+COGNITIVE DOMAIN VS SLEEP, AGE, AND GAMING HOURS
+======================================================================
+
+Purpose
+-------
+This analysis examines the relationship between cognitive-domain performance and three player-level variables: sleep duration, age, and weekly gaming hours.
+
+Cognitive-domain performance was calculated by averaging normalized average scores of games associated with each domain for each player.
+
+Spearman rank correlation was used because the sample size is relatively small and linear-normal assumptions are not required.
+
+Correlation Results
+-------------------
+
+Attention vs Sleep: rho=0.1980, p=0.1636, n=51
+Attention vs Age: rho=-0.0170, p=0.9058, n=51
+Attention vs Gaming Hours: rho=0.0768, p=0.5921, n=51
+Memory vs Sleep: rho=0.1961, p=0.1636, n=52
+Memory vs Age: rho=-0.0103, p=0.9424, n=52
+Memory vs Gaming Hours: rho=0.0679, p=0.6327, n=52
+Reasoning vs Sleep: rho=0.2735, p=0.0573, n=49
+Reasoning vs Age: rho=0.1419, p=0.3306, n=49
+Reasoning vs Gaming Hours: rho=0.1107, p=0.4489, n=49
+Reflex vs Sleep: rho=0.2521, p=0.0743, n=51
+Reflex vs Age: rho=0.0300, p=0.8347, n=51
+Reflex vs Gaming Hours: rho=0.0634, p=0.6585, n=51
+Perception vs Sleep: rho=0.3170, p=0.0434, n=41
+Perception vs Age: rho=-0.0103, p=0.9490, n=41
+Perception vs Gaming Hours: rho=0.1225, p=0.4456, n=41
+Learning vs Sleep: rho=0.1336, p=0.3761, n=46
+Learning vs Age: rho=0.2755, p=0.0639, n=46
+Learning vs Gaming Hours: rho=0.1889, p=0.2086, n=46
+
+Interpretation Note
+-------------------
+
+The correlations describe associations between player-level variables and domain-level gameplay performance. They do not establish causation.
+
+Because participants did not necessarily play every game, the number of observations may differ between cognitive domains. Unplayed games were not treated as zero-performance observations.
+
+The cognitive domains represent the intended cognitive demands of the game activities and should not be interpreted as clinical measurements of cognitive ability.

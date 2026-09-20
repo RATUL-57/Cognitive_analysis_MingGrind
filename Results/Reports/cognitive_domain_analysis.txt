@@ -5,9 +5,9 @@ Games may belong to multiple cognitive domains. Therefore, a game contributes to
 
 Domain-level results:
 ------------------------------------------------------------
-Attention       | Games:  6 | Participants:  45 | Mean Performance: 52.59% | Mean Best: 59.09%
-Learning        | Games:  4 | Participants:  42 | Mean Performance: 42.56% | Mean Best: 50.20%
-Memory          | Games: 11 | Participants:  45 | Mean Performance: 50.37% | Mean Best: 57.57%
-Perception      | Games:  4 | Participants:  35 | Mean Performance: 50.83% | Mean Best: 57.17%
-Reasoning       | Games:  5 | Participants:  41 | Mean Performance: 50.79% | Mean Best: 56.97%
-Reflex          | Games:  8 | Participants:  44 | Mean Performance: 52.95% | Mean Best: 59.09%
+Attention       | Games:  6 | Participants:  51 | Mean Performance: 52.47% | Mean Best: 56.17%
+Learning        | Games:  4 | Participants:  46 | Mean Performance: 54.57% | Mean Best: 59.31%
+Memory          | Games: 11 | Participants:  52 | Mean Performance: 52.15% | Mean Best: 56.35%
+Perception      | Games:  4 | Participants:  41 | Mean Performance: 52.84% | Mean Best: 56.68%
+Reasoning       | Games:  5 | Participants:  49 | Mean Performance: 54.79% | Mean Best: 59.28%
+Reflex          | Games:  8 | Participants:  51 | Mean Performance: 53.46% | Mean Best: 57.13%

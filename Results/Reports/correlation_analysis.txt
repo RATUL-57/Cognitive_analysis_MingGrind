@@ -31,18 +31,18 @@ Important methodological notes
 
 Strongest non-self correlations
 --------------------------------
-overall_performance <-> overall_best_performance: rho=0.9666, p=0.0000, n=47
-Attention <-> Reflex: rho=0.9150, p=0.0000, n=44
-overall_performance <-> Reflex: rho=0.8912, p=0.0000, n=44
-games_played <-> total_plays: rho=0.8880, p=0.0000, n=47
-overall_performance <-> Memory: rho=0.8854, p=0.0000, n=45
-overall_best_performance <-> Reflex: rho=0.8766, p=0.0000, n=44
-overall_performance <-> Attention: rho=0.8532, p=0.0000, n=45
-overall_best_performance <-> Perception: rho=0.8524, p=0.0000, n=35
-overall_best_performance <-> Reasoning: rho=0.8411, p=0.0000, n=41
-overall_performance <-> Perception: rho=0.8353, p=0.0000, n=35
-overall_best_performance <-> Memory: rho=0.8311, p=0.0000, n=45
-overall_best_performance <-> Attention: rho=0.8274, p=0.0000, n=45
-Memory <-> Perception: rho=0.8238, p=0.0000, n=35
-overall_performance <-> Reasoning: rho=0.8228, p=0.0000, n=41
-Perception <-> Learning: rho=0.8192, p=0.0000, n=34
+overall_performance <-> overall_best_performance: rho=0.9627, p=0.0000, n=53
+overall_performance <-> Reflex: rho=0.9580, p=0.0000, n=51
+overall_performance <-> Memory: rho=0.9492, p=0.0000, n=52
+overall_best_performance <-> Reflex: rho=0.9433, p=0.0000, n=51
+overall_performance <-> Attention: rho=0.9388, p=0.0000, n=51
+Memory <-> Perception: rho=0.9298, p=0.0000, n=41
+Memory <-> Attention: rho=0.9289, p=0.0000, n=51
+overall_performance <-> Perception: rho=0.9240, p=0.0000, n=41
+overall_best_performance <-> Attention: rho=0.9233, p=0.0000, n=51
+Attention <-> Reflex: rho=0.9215, p=0.0000, n=50
+overall_best_performance <-> Perception: rho=0.9181, p=0.0000, n=41
+overall_best_performance <-> Memory: rho=0.9150, p=0.0000, n=52
+Reflex <-> Reasoning: rho=0.8997, p=0.0000, n=47
+overall_performance <-> Reasoning: rho=0.8932, p=0.0000, n=49
+Memory <-> Reflex: rho=0.8861, p=0.0000, n=51

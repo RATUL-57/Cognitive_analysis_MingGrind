@@ -10,19 +10,19 @@
     {
       "gameId": 0,
       "bestScore": 125,
-      "averageScore": 72,
-      "playCount": 2
+      "averageScore": 125,
+      "playCount": 1
     },
     {
       "gameId": 1,
-      "bestScore": 210,
-      "averageScore": 210,
+      "bestScore": 190,
+      "averageScore": 190,
       "playCount": 1
     },
     {
       "gameId": 2,
-      "bestScore": 135,
-      "averageScore": 135,
+      "bestScore": 115,
+      "averageScore": 115,
       "playCount": 1
     }
   ]

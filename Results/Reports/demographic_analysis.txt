@@ -7,25 +7,25 @@ Numerical associations use Spearman correlation. Categorical variables are summa
 
 Spearman correlations:
 ------------------------------------------------------------
-age                       | n= 47 | rho=0.2505 | p=0.0895
-weekly_gaming_hours       | n= 47 | rho=0.0088 | p=0.9534
-sleep_hours_last_night    | n= 47 | rho=0.1798 | p=0.2265
-games_played              | n= 47 | rho=0.1390 | p=0.3514
-total_plays               | n= 47 | rho=-0.0246 | p=0.8697
+age                       | n= 53 | rho=0.0517 | p=0.7130
+weekly_gaming_hours       | n= 53 | rho=0.1181 | p=0.3997
+sleep_hours_last_night    | n= 53 | rho=0.2596 | p=0.0605
+games_played              | n= 53 | rho=-0.0862 | p=0.5394
+total_plays               | n= 53 | rho=-0.1087 | p=0.4384
 
 Performance by gender:
 ------------------------------------------------------------
-Male | n=47 | Mean=48.80%
+Male | n=53 | Mean=53.90%
 
 Performance by country:
 ------------------------------------------------------------
-Bangladesh | n=46 | Mean=49.21%
-Cameroon | n=1 | Mean=29.79%
+Bangladesh | n=52 | Mean=53.88%
+Cameroon | n=1 | Mean=54.50%
 
 Performance by favorite genre:
 ------------------------------------------------------------
-Action | n=19 | Mean=43.33%
-Puzzle | n=3 | Mean=52.67%
-RPG | n=3 | Mean=57.91%
-Stealth | n=16 | Mean=52.90%
-Strategy | n=6 | Mean=48.66%
+Action | n=25 | Mean=53.44%
+Puzzle | n=7 | Mean=49.34%
+RPG | n=2 | Mean=52.19%
+Stealth | n=14 | Mean=53.42%
+Strategy | n=5 | Mean=64.58%

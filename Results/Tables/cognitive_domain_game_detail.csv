@@ -1,39 +1,39 @@
 cognitive_domain,game_id,game_title,participants,mean_average_score,mean_best_score,total_plays,mean_average_percent,mean_best_percent
-Attention,0,Cipher Rush,32,0.4339,0.5234,74,43.3875,52.3375
-Attention,1,Match-a-Mole,34,0.5044,0.5922,68,50.4418,59.2159
-Attention,3,Feed The Fishes,28,0.579,0.644,60,57.8968,64.4043
-Attention,8,Word Reveal,29,0.4507,0.5223,74,45.0707,52.231
-Attention,30,Level 1,29,0.6642,0.6613,101,66.4248,66.1345
-Attention,31,Level 2,20,0.5435,0.6195,49,54.35,61.95
-Learning,6,Wordify,24,0.3982,0.4774,53,39.8212,47.7379
-Learning,9,Precision Product,22,0.4646,0.5418,37,46.4645,54.1818
-Learning,13,Wordle,27,0.4673,0.541,63,46.7319,54.0959
-Learning,14,Word Bubble,27,0.3765,0.4526,56,37.6481,45.2593
-Memory,2,"Good Guy, Bad Guy",29,0.5553,0.6388,67,55.5345,63.8793
-Memory,3,Feed The Fishes,28,0.579,0.644,60,57.8968,64.4043
-Memory,5,Match The Notes,25,0.4154,0.4714,52,41.54,47.14
-Memory,8,Word Reveal,29,0.4507,0.5223,74,45.0707,52.231
-Memory,10,Sequence Grid,28,0.4771,0.5704,64,47.7143,57.0357
-Memory,11,Perception Match,27,0.5538,0.5911,55,55.3778,59.1111
-Memory,15,Sequence Match,20,0.4544,0.5206,37,45.4375,52.0625
-Memory,16,Verbal Memory,25,0.4909,0.5619,59,49.088,56.192
-Memory,17,Number Memory,25,0.4749,0.5638,61,47.488,56.384
-Memory,31,Level 2,20,0.5435,0.6195,49,54.35,61.95
-Memory,32,Level 3,20,0.5418,0.6265,45,54.1765,62.647
-Perception,5,Match The Notes,25,0.4154,0.4714,52,41.54,47.14
-Perception,7,Find Me If You Can,27,0.5242,0.6047,58,52.417,60.4719
-Perception,11,Perception Match,27,0.5538,0.5911,55,55.3778,59.1111
-Perception,32,Level 3,20,0.5418,0.6265,45,54.1765,62.647
-Reasoning,4,Train of Thoughts,28,0.537,0.6009,52,53.6964,60.0893
-Reasoning,13,Wordle,27,0.4673,0.541,63,46.7319,54.0959
-Reasoning,19,Odd One Out,23,0.5049,0.567,43,50.4852,56.6961
-Reasoning,33,Level 4,18,0.5241,0.5972,28,52.4078,59.7222
-Reasoning,34,Level 5,18,0.5114,0.5403,29,51.14,54.0344
-Reflex,0,Cipher Rush,32,0.4339,0.5234,74,43.3875,52.3375
-Reflex,1,Match-a-Mole,34,0.5044,0.5922,68,50.4418,59.2159
-Reflex,4,Train of Thoughts,28,0.537,0.6009,52,53.6964,60.0893
-Reflex,9,Precision Product,22,0.4646,0.5418,37,46.4645,54.1818
-Reflex,12,"Faster, Please",21,0.5633,0.6455,59,56.3333,64.5476
-Reflex,18,Stop The Clock,22,0.5576,0.5732,39,55.7614,57.3241
-Reflex,30,Level 1,29,0.6642,0.6613,101,66.4248,66.1345
-Reflex,33,Level 4,18,0.5241,0.5972,28,52.4078,59.7222
+Attention,0,Cipher Rush,40,0.5295,0.5607,83,52.95,56.07
+Attention,1,Match-a-Mole,33,0.536,0.5644,60,53.5961,56.4442
+Attention,3,Feed The Fishes,33,0.5047,0.5478,55,50.4715,54.7809
+Attention,8,Word Reveal,28,0.5265,0.5712,82,52.6464,57.1218
+Attention,30,Level 1,31,0.5464,0.5766,77,54.6355,57.6577
+Attention,31,Level 2,23,0.4974,0.5478,57,49.7391,54.7826
+Learning,6,Wordify,31,0.5341,0.576,64,53.4106,57.6042
+Learning,9,Precision Product,26,0.5275,0.5682,60,52.7519,56.8208
+Learning,13,Wordle,29,0.5588,0.6138,68,55.8824,61.379
+Learning,14,Word Bubble,34,0.559,0.61,72,55.8971,61.0
+Memory,2,"Good Guy, Bad Guy",35,0.5041,0.5524,82,50.4143,55.2429
+Memory,3,Feed The Fishes,33,0.5047,0.5478,55,50.4715,54.7809
+Memory,5,Match The Notes,27,0.5546,0.5802,45,55.463,58.0185
+Memory,8,Word Reveal,28,0.5265,0.5712,82,52.6464,57.1218
+Memory,10,Sequence Grid,30,0.5093,0.5557,52,50.9333,55.5667
+Memory,11,Perception Match,30,0.5299,0.566,66,52.9867,56.6
+Memory,15,Sequence Match,28,0.5121,0.5513,56,51.2054,55.1339
+Memory,16,Verbal Memory,31,0.5258,0.5795,71,52.5806,57.9484
+Memory,17,Number Memory,28,0.5531,0.5866,57,55.3143,58.6571
+Memory,31,Level 2,23,0.4974,0.5478,57,49.7391,54.7826
+Memory,32,Level 3,25,0.5233,0.5623,58,52.3284,56.2344
+Perception,5,Match The Notes,27,0.5546,0.5802,45,55.463,58.0185
+Perception,7,Find Me If You Can,27,0.5055,0.5584,77,50.5456,55.8381
+Perception,11,Perception Match,30,0.5299,0.566,66,52.9867,56.6
+Perception,32,Level 3,25,0.5233,0.5623,58,52.3284,56.2344
+Reasoning,4,Train of Thoughts,35,0.5177,0.559,57,51.7714,55.9
+Reasoning,13,Wordle,29,0.5588,0.6138,68,55.8824,61.379
+Reasoning,19,Odd One Out,30,0.5486,0.5901,66,54.8567,59.0093
+Reasoning,33,Level 4,28,0.5699,0.6143,49,56.9936,61.4279
+Reasoning,34,Level 5,26,0.552,0.5947,45,55.2015,59.4731
+Reflex,0,Cipher Rush,40,0.5295,0.5607,83,52.95,56.07
+Reflex,1,Match-a-Mole,33,0.536,0.5644,60,53.5961,56.4442
+Reflex,4,Train of Thoughts,35,0.5177,0.559,57,51.7714,55.9
+Reflex,9,Precision Product,26,0.5275,0.5682,60,52.7519,56.8208
+Reflex,12,"Faster, Please",29,0.5164,0.5643,74,51.6379,56.431
+Reflex,18,Stop The Clock,29,0.5385,0.5713,70,53.85,57.1348
+Reflex,30,Level 1,31,0.5464,0.5766,77,54.6355,57.6577
+Reflex,33,Level 4,28,0.5699,0.6143,49,56.9936,61.4279

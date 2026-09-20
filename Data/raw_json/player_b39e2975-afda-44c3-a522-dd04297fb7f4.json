@@ -1,0 +1,119 @@
+{
+  "userId": "b39e2975-afda-44c3-a522-dd04297fb7f4",
+  "age": 19,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Action",
+  "weeklyGamingHours": 45,
+  "sleepHoursLastNight": 2,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 88,
+      "averageScore": 78,
+      "playCount": 2
+    },
+    {
+      "gameId": 1,
+      "bestScore": 87,
+      "averageScore": 87,
+      "playCount": 1
+    },
+    {
+      "gameId": 2,
+      "bestScore": 89,
+      "averageScore": 54,
+      "playCount": 2
+    },
+    {
+      "gameId": 3,
+      "bestScore": 32,
+      "averageScore": 32,
+      "playCount": 1
+    },
+    {
+      "gameId": 6,
+      "bestScore": 27,
+      "averageScore": 27,
+      "playCount": 1
+    },
+    {
+      "gameId": 7,
+      "bestScore": 118,
+      "averageScore": 72,
+      "playCount": 5
+    },
+    {
+      "gameId": 9,
+      "bestScore": 57,
+      "averageScore": 57,
+      "playCount": 1
+    },
+    {
+      "gameId": 10,
+      "bestScore": 28,
+      "averageScore": 28,
+      "playCount": 1
+    },
+    {
+      "gameId": 11,
+      "bestScore": 81,
+      "averageScore": 81,
+      "playCount": 1
+    },
+    {
+      "gameId": 12,
+      "bestScore": 51,
+      "averageScore": 51,
+      "playCount": 1
+    },
+    {
+      "gameId": 14,
+      "bestScore": 92,
+      "averageScore": 55,
+      "playCount": 12
+    },
+    {
+      "gameId": 15,
+      "bestScore": 33,
+      "averageScore": 26,
+      "playCount": 6
+    },
+    {
+      "gameId": 16,
+      "bestScore": 85,
+      "averageScore": 85,
+      "playCount": 1
+    },
+    {
+      "gameId": 18,
+      "bestScore": 305,
+      "averageScore": 284,
+      "playCount": 3
+    },
+    {
+      "gameId": 19,
+      "bestScore": 65,
+      "averageScore": 65,
+      "playCount": 1
+    },
+    {
+      "gameId": 31,
+      "bestScore": 35,
+      "averageScore": 35,
+      "playCount": 1
+    },
+    {
+      "gameId": 32,
+      "bestScore": 26,
+      "averageScore": 26,
+      "playCount": 1
+    },
+    {
+      "gameId": 33,
+      "bestScore": 57,
+      "averageScore": 32,
+      "playCount": 2
+    }
+  ]
+}

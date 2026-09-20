@@ -1,0 +1,65 @@
+{
+  "userId": "093af538-a039-4ea3-b6b6-d1243b9e0b1a",
+  "age": 24,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Puzzle",
+  "weeklyGamingHours": 50,
+  "sleepHoursLastNight": 8,
+  "gameStats": [
+    {
+      "gameId": 0,
+      "bestScore": 170,
+      "averageScore": 170,
+      "playCount": 1
+    },
+    {
+      "gameId": 3,
+      "bestScore": 61,
+      "averageScore": 61,
+      "playCount": 1
+    },
+    {
+      "gameId": 5,
+      "bestScore": 147,
+      "averageScore": 147,
+      "playCount": 1
+    },
+    {
+      "gameId": 6,
+      "bestScore": 55,
+      "averageScore": 55,
+      "playCount": 1
+    },
+    {
+      "gameId": 9,
+      "bestScore": 151,
+      "averageScore": 151,
+      "playCount": 1
+    },
+    {
+      "gameId": 12,
+      "bestScore": 142,
+      "averageScore": 142,
+      "playCount": 1
+    },
+    {
+      "gameId": 14,
+      "bestScore": 146,
+      "averageScore": 146,
+      "playCount": 1
+    },
+    {
+      "gameId": 19,
+      "bestScore": 134,
+      "averageScore": 134,
+      "playCount": 1
+    },
+    {
+      "gameId": 34,
+      "bestScore": 141,
+      "averageScore": 141,
+      "playCount": 1
+    }
+  ]
+}

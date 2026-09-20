@@ -5,28 +5,28 @@ Scores are normalized according to each game's maximum possible score.
 
 Game-level results:
 ------------------------------------------------------------
- 0 | Cipher Rush               | Participants:  32 | Mean Average: 43.39% | Mean Best: 52.34%
- 1 | Match-a-Mole              | Participants:  34 | Mean Average: 50.44% | Mean Best: 59.22%
- 2 | Good Guy, Bad Guy         | Participants:  29 | Mean Average: 55.53% | Mean Best: 63.88%
- 3 | Feed The Fishes           | Participants:  28 | Mean Average: 57.90% | Mean Best: 64.40%
- 4 | Train of Thoughts         | Participants:  28 | Mean Average: 53.70% | Mean Best: 60.09%
- 5 | Match The Notes           | Participants:  25 | Mean Average: 41.54% | Mean Best: 47.14%
- 6 | Wordify                   | Participants:  24 | Mean Average: 39.82% | Mean Best: 47.74%
- 7 | Find Me If You Can        | Participants:  27 | Mean Average: 52.42% | Mean Best: 60.47%
- 8 | Word Reveal               | Participants:  29 | Mean Average: 45.07% | Mean Best: 52.23%
- 9 | Precision Product         | Participants:  22 | Mean Average: 46.46% | Mean Best: 54.18%
-10 | Sequence Grid             | Participants:  28 | Mean Average: 47.71% | Mean Best: 57.04%
-11 | Perception Match          | Participants:  27 | Mean Average: 55.38% | Mean Best: 59.11%
-12 | Faster, Please            | Participants:  21 | Mean Average: 56.33% | Mean Best: 64.55%
-13 | Wordle                    | Participants:  27 | Mean Average: 46.73% | Mean Best: 54.10%
-14 | Word Bubble               | Participants:  27 | Mean Average: 37.65% | Mean Best: 45.26%
-15 | Sequence Match            | Participants:  20 | Mean Average: 45.44% | Mean Best: 52.06%
-16 | Verbal Memory             | Participants:  25 | Mean Average: 49.09% | Mean Best: 56.19%
-17 | Number Memory             | Participants:  25 | Mean Average: 47.49% | Mean Best: 56.38%
-18 | Stop The Clock            | Participants:  22 | Mean Average: 55.76% | Mean Best: 57.32%
-19 | Odd One Out               | Participants:  23 | Mean Average: 50.49% | Mean Best: 56.70%
-30 | Level 1                   | Participants:  29 | Mean Average: 66.42% | Mean Best: 66.13%
-31 | Level 2                   | Participants:  20 | Mean Average: 54.35% | Mean Best: 61.95%
-32 | Level 3                   | Participants:  20 | Mean Average: 54.18% | Mean Best: 62.65%
-33 | Level 4                   | Participants:  18 | Mean Average: 52.41% | Mean Best: 59.72%
-34 | Level 5                   | Participants:  18 | Mean Average: 51.14% | Mean Best: 54.03%
+ 0 | Cipher Rush               | Participants:  40 | Mean Average: 52.95% | Mean Best: 56.07%
+ 1 | Match-a-Mole              | Participants:  33 | Mean Average: 53.60% | Mean Best: 56.44%
+ 2 | Good Guy, Bad Guy         | Participants:  35 | Mean Average: 50.41% | Mean Best: 55.24%
+ 3 | Feed The Fishes           | Participants:  33 | Mean Average: 50.47% | Mean Best: 54.78%
+ 4 | Train of Thoughts         | Participants:  35 | Mean Average: 51.77% | Mean Best: 55.90%
+ 5 | Match The Notes           | Participants:  27 | Mean Average: 55.46% | Mean Best: 58.02%
+ 6 | Wordify                   | Participants:  31 | Mean Average: 53.41% | Mean Best: 57.60%
+ 7 | Find Me If You Can        | Participants:  27 | Mean Average: 50.55% | Mean Best: 55.84%
+ 8 | Word Reveal               | Participants:  28 | Mean Average: 52.65% | Mean Best: 57.12%
+ 9 | Precision Product         | Participants:  26 | Mean Average: 52.75% | Mean Best: 56.82%
+10 | Sequence Grid             | Participants:  30 | Mean Average: 50.93% | Mean Best: 55.57%
+11 | Perception Match          | Participants:  30 | Mean Average: 52.99% | Mean Best: 56.60%
+12 | Faster, Please            | Participants:  29 | Mean Average: 51.64% | Mean Best: 56.43%
+13 | Wordle                    | Participants:  29 | Mean Average: 55.88% | Mean Best: 61.38%
+14 | Word Bubble               | Participants:  34 | Mean Average: 55.90% | Mean Best: 61.00%
+15 | Sequence Match            | Participants:  28 | Mean Average: 51.21% | Mean Best: 55.13%
+16 | Verbal Memory             | Participants:  31 | Mean Average: 52.58% | Mean Best: 57.95%
+17 | Number Memory             | Participants:  28 | Mean Average: 55.31% | Mean Best: 58.66%
+18 | Stop The Clock            | Participants:  29 | Mean Average: 53.85% | Mean Best: 57.13%
+19 | Odd One Out               | Participants:  30 | Mean Average: 54.86% | Mean Best: 59.01%
+30 | Level 1                   | Participants:  31 | Mean Average: 54.64% | Mean Best: 57.66%
+31 | Level 2                   | Participants:  23 | Mean Average: 49.74% | Mean Best: 54.78%
+32 | Level 3                   | Participants:  25 | Mean Average: 52.33% | Mean Best: 56.23%
+33 | Level 4                   | Participants:  28 | Mean Average: 56.99% | Mean Best: 61.43%
+34 | Level 5                   | Participants:  26 | Mean Average: 55.20% | Mean Best: 59.47%

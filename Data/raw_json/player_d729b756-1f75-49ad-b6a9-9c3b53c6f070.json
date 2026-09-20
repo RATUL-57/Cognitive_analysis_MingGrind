@@ -1,0 +1,53 @@
+{
+  "userId": "d729b756-1f75-49ad-b6a9-9c3b53c6f070",
+  "age": 27,
+  "gender": "Male",
+  "country": "Bangladesh",
+  "favoriteGenre": "Action",
+  "weeklyGamingHours": 2,
+  "sleepHoursLastNight": 11,
+  "gameStats": [
+    {
+      "gameId": 4,
+      "bestScore": 119,
+      "averageScore": 119,
+      "playCount": 1
+    },
+    {
+      "gameId": 15,
+      "bestScore": 40,
+      "averageScore": 40,
+      "playCount": 1
+    },
+    {
+      "gameId": 16,
+      "bestScore": 147,
+      "averageScore": 130,
+      "playCount": 2
+    },
+    {
+      "gameId": 18,
+      "bestScore": 499,
+      "averageScore": 441,
+      "playCount": 10
+    },
+    {
+      "gameId": 30,
+      "bestScore": 55,
+      "averageScore": 53,
+      "playCount": 2
+    },
+    {
+      "gameId": 31,
+      "bestScore": 56,
+      "averageScore": 56,
+      "playCount": 1
+    },
+    {
+      "gameId": 34,
+      "bestScore": 112,
+      "averageScore": 95,
+      "playCount": 2
+    }
+  ]
+}

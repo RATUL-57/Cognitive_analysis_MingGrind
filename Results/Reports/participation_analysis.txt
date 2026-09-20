@@ -1,37 +1,37 @@
 PARTICIPATION ANALYSIS REPORT
 ============================================================
 
-Total players: 47
+Total players: 53
 Total games: 25
 Games with participation: 25
-Total recorded plays: 1383
+Total recorded plays: 1603
 
-Average games played per player: 13.36
+Average games played per player: 14.08
 
 Game participation:
 ------------------------------------------------------------
- 0 | Cipher Rush               | 32 players | 68.09% | 74 plays
- 1 | Match-a-Mole              | 34 players | 72.34% | 68 plays
- 2 | Good Guy, Bad Guy         | 29 players | 61.70% | 67 plays
- 3 | Feed The Fishes           | 28 players | 59.57% | 60 plays
- 4 | Train of Thoughts         | 28 players | 59.57% | 52 plays
- 5 | Match The Notes           | 25 players | 53.19% | 52 plays
- 6 | Wordify                   | 24 players | 51.06% | 53 plays
- 7 | Find Me If You Can        | 27 players | 57.45% | 58 plays
- 8 | Word Reveal               | 29 players | 61.70% | 74 plays
- 9 | Precision Product         | 22 players | 46.81% | 37 plays
-10 | Sequence Grid             | 28 players | 59.57% | 64 plays
-11 | Perception Match          | 27 players | 57.45% | 55 plays
-12 | Faster, Please            | 21 players | 44.68% | 59 plays
-13 | Wordle                    | 27 players | 57.45% | 63 plays
-14 | Word Bubble               | 27 players | 57.45% | 56 plays
-15 | Sequence Match            | 20 players | 42.55% | 37 plays
-16 | Verbal Memory             | 25 players | 53.19% | 59 plays
-17 | Number Memory             | 25 players | 53.19% | 61 plays
-18 | Stop The Clock            | 22 players | 46.81% | 39 plays
-19 | Odd One Out               | 23 players | 48.94% | 43 plays
-30 | Level 1                   | 29 players | 61.70% | 101 plays
-31 | Level 2                   | 20 players | 42.55% | 49 plays
-32 | Level 3                   | 20 players | 42.55% | 45 plays
-33 | Level 4                   | 18 players | 38.30% | 28 plays
-34 | Level 5                   | 18 players | 38.30% | 29 plays
+ 0 | Cipher Rush               | 40 players | 75.47% | 83 plays
+ 1 | Match-a-Mole              | 33 players | 62.26% | 60 plays
+ 2 | Good Guy, Bad Guy         | 35 players | 66.04% | 82 plays
+ 3 | Feed The Fishes           | 33 players | 62.26% | 55 plays
+ 4 | Train of Thoughts         | 35 players | 66.04% | 57 plays
+ 5 | Match The Notes           | 27 players | 50.94% | 45 plays
+ 6 | Wordify                   | 31 players | 58.49% | 64 plays
+ 7 | Find Me If You Can        | 27 players | 50.94% | 77 plays
+ 8 | Word Reveal               | 28 players | 52.83% | 82 plays
+ 9 | Precision Product         | 26 players | 49.06% | 60 plays
+10 | Sequence Grid             | 30 players | 56.60% | 52 plays
+11 | Perception Match          | 30 players | 56.60% | 66 plays
+12 | Faster, Please            | 29 players | 54.72% | 74 plays
+13 | Wordle                    | 29 players | 54.72% | 68 plays
+14 | Word Bubble               | 34 players | 64.15% | 72 plays
+15 | Sequence Match            | 28 players | 52.83% | 56 plays
+16 | Verbal Memory             | 31 players | 58.49% | 71 plays
+17 | Number Memory             | 28 players | 52.83% | 57 plays
+18 | Stop The Clock            | 29 players | 54.72% | 70 plays
+19 | Odd One Out               | 30 players | 56.60% | 66 plays
+30 | Level 1                   | 31 players | 58.49% | 77 plays
+31 | Level 2                   | 23 players | 43.40% | 57 plays
+32 | Level 3                   | 25 players | 47.17% | 58 plays
+33 | Level 4                   | 28 players | 52.83% | 49 plays
+34 | Level 5                   | 26 players | 49.06% | 45 plays

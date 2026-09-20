@@ -1,26 +1,26 @@
 game_id,game_title,game_type,cognitive_skills,participants,total_plays,average_plays_per_player,participation_percent
-0,Cipher Rush,minigame,Attention;Reflex,32,74,2.31,68.09
-1,Match-a-Mole,minigame,Reflex;Attention,34,68,2.0,72.34
-2,"Good Guy, Bad Guy",minigame,Memory,29,67,2.31,61.7
-3,Feed The Fishes,minigame,Memory;Attention,28,60,2.14,59.57
-4,Train of Thoughts,minigame,Reflex;Reasoning,28,52,1.86,59.57
-5,Match The Notes,minigame,Memory;Perception,25,52,2.08,53.19
-6,Wordify,minigame,Learning,24,53,2.21,51.06
-7,Find Me If You Can,minigame,Perception,27,58,2.15,57.45
-8,Word Reveal,minigame,Attention;Memory,29,74,2.55,61.7
-9,Precision Product,minigame,Reflex;Learning,22,37,1.68,46.81
-10,Sequence Grid,minigame,Memory,28,64,2.29,59.57
-11,Perception Match,minigame,Perception;Memory,27,55,2.04,57.45
-12,"Faster, Please",minigame,Reflex,21,59,2.81,44.68
-13,Wordle,minigame,Learning;Reasoning,27,63,2.33,57.45
-14,Word Bubble,minigame,Learning,27,56,2.07,57.45
-15,Sequence Match,minigame,Memory,20,37,1.85,42.55
-16,Verbal Memory,minigame,Memory,25,59,2.36,53.19
-17,Number Memory,minigame,Memory,25,61,2.44,53.19
-18,Stop The Clock,minigame,Reflex,22,39,1.77,46.81
-19,Odd One Out,minigame,Reasoning,23,43,1.87,48.94
-30,Level 1,level,Reflex;Attention,29,101,3.48,61.7
-31,Level 2,level,Memory;Attention,20,49,2.45,42.55
-32,Level 3,level,Memory;Perception,20,45,2.25,42.55
-33,Level 4,level,Reasoning;Reflex,18,28,1.56,38.3
-34,Level 5,level,Reasoning,18,29,1.61,38.3
+0,Cipher Rush,minigame,Attention;Reflex,40,83,2.08,75.47
+1,Match-a-Mole,minigame,Reflex;Attention,33,60,1.82,62.26
+2,"Good Guy, Bad Guy",minigame,Memory,35,82,2.34,66.04
+3,Feed The Fishes,minigame,Memory;Attention,33,55,1.67,62.26
+4,Train of Thoughts,minigame,Reflex;Reasoning,35,57,1.63,66.04
+5,Match The Notes,minigame,Memory;Perception,27,45,1.67,50.94
+6,Wordify,minigame,Learning,31,64,2.06,58.49
+7,Find Me If You Can,minigame,Perception,27,77,2.85,50.94
+8,Word Reveal,minigame,Attention;Memory,28,82,2.93,52.83
+9,Precision Product,minigame,Reflex;Learning,26,60,2.31,49.06
+10,Sequence Grid,minigame,Memory,30,52,1.73,56.6
+11,Perception Match,minigame,Perception;Memory,30,66,2.2,56.6
+12,"Faster, Please",minigame,Reflex,29,74,2.55,54.72
+13,Wordle,minigame,Learning;Reasoning,29,68,2.34,54.72
+14,Word Bubble,minigame,Learning,34,72,2.12,64.15
+15,Sequence Match,minigame,Memory,28,56,2.0,52.83
+16,Verbal Memory,minigame,Memory,31,71,2.29,58.49
+17,Number Memory,minigame,Memory,28,57,2.04,52.83
+18,Stop The Clock,minigame,Reflex,29,70,2.41,54.72
+19,Odd One Out,minigame,Reasoning,30,66,2.2,56.6
+30,Level 1,level,Reflex;Attention,31,77,2.48,58.49
+31,Level 2,level,Memory;Attention,23,57,2.48,43.4
+32,Level 3,level,Memory;Perception,25,58,2.32,47.17
+33,Level 4,level,Reasoning;Reflex,28,49,1.75,52.83
+34,Level 5,level,Reasoning,26,45,1.73,49.06
